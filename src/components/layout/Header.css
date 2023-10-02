@@ -1,0 +1,13 @@
+header {
+  margin-bottom: 20px;
+}
+
+header .active {
+  color: rgb(55, 255, 0) !important;
+}
+
+header .nav-link {
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 30px;
+}
